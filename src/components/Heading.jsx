@@ -3,7 +3,7 @@ export const Heading = () =>  {
   
     return (
       <div className="head">
-       <h1>React SPA by Murthy</h1>
+       <h1>React SPA by Soham</h1>
       </div>
     );
   
